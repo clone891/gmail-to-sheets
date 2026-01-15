@@ -1,6 +1,7 @@
 # Gmail to Google Sheets Automation
 
-**Author:** Vaibhav Kandpal
+**Author:** Vaibhav Kandpal  
+
 **Language:** Python 3  
 **Type:** Backend Automation Script
 
